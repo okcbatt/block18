@@ -1,0 +1,12 @@
+{
+  "name": "block18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "block18.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
