@@ -1,1 +1,1 @@
-<!-- I could not get my tests to actually run. I don't think I have everything connected to each other correctly.  -->
+I could not get my tests to actually run. I don't think I have everything connected to each other correctly. 
